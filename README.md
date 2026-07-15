@@ -1,3 +1,3 @@
 # garzon_mobrog
 
-A new Flutter project.
+Mobile Programming Flutter project showcasing a social media app UI with login, registration, feed, profile, and notification features.
